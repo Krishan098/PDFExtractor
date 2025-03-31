@@ -1,5 +1,5 @@
 PyPDF2
 langchain
-google
+google-generativeai
 langchain_community
 langchain_google_genai
