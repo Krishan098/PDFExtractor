@@ -1,4 +1,4 @@
-# PDFExtractor
+
 # PDFEXTRACTOR
 
 PDFEXTRACTOR is a powerful tool designed to extract text, images, and metadata from PDF documents efficiently. It simplifies document processing workflows and provides a seamless way to extract and analyze PDF content.
