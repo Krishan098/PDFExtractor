@@ -63,7 +63,7 @@ This project is licensed under the MIT License.
 For any inquiries, feel free to reach out:
 - **Author:** Krishan Mittal
 - **Email:** krishanmittal798@gmail.com
-- **Hugging Face Space:** [PDFEXTRACTOR](https://huggingface.co/spaces/krishanmittal018/PDFEXTRACTOR)
+- **Streamlit:** [PDFEXTRACTOR](https://krishan098-pdfextractor-app-n5ay7w.streamlit.app/)
 
 
 
